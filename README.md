@@ -12,7 +12,7 @@ Meu portfólio de projetos de Data Science, utilizando Python
 Com formação em Engenharia, consigo aliar o Pensamento Crítico à resolução de problemas complexos, mesclando com a capacidade de gerir times e pessoas adquirida através da Gestão de uma empresa de Educação Básica.
 Minhas credenciais incluem o diploma de Engenheiro Civil do Centro Universitário Cesmac, e atualmente estou cursando uma pós-graduação em Bussiness Analytics no IPOG.
 
-**Background in:** Projetos de Engenharia Civil, Gestão de Empresas.
+**Background in:** Projetos de Engenharia Civil, Gestão de Empresas, Python.
 
 **Links:**
 * [Blog](http://sigmoidal.ai)
