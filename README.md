@@ -16,7 +16,7 @@ Minhas credenciais incluem o diploma de Engenheiro Civil do Centro Universitári
 
 **Links:**
 * [Blog](http://sigmoidal.ai)
-* [LinkedIn](www.linkedin.com/in/victor-matheus-farias-94a444140)
+* [LinkedIn](https://www.linkedin.com/in/victor-matheus-farias-94a444140)
 * [Medium](https://www.medium.com)
 
 
