@@ -9,7 +9,7 @@ Meu portfólio de projetos de Data Science, utilizando Python
 # Victor Matheus
 <sub>Engenheiro Civil, atuando no ramo da Gestão Escolar, iniciando a carreira em Data Science</sub>
 
-Com formação em Engenharia, consigo aliar o Pensamento Crítico à resolução de problemas complexos, mesclando com a capacidade de gerir times e pessoas adquirida através da Gestão de uma empresa de Educação Básica.
+Com formação em Engenharia, consigo aliar o Pensamento Crítico à resolução de problemas complexos, mesclando isso com a capacidade de gerir times e pessoas, adquirida através da Gestão de uma empresa de Educação Básica.
 Minhas credenciais incluem o diploma de Engenheiro Civil do Centro Universitário Cesmac, e atualmente estou cursando uma pós-graduação em Bussiness Analytics no IPOG.
 
 **Background em:** Projetos de Engenharia Civil, Orçamentos, Gestão de Empresas, Python.
